@@ -1,0 +1,12 @@
+# Changelog
+
+### 31.07.2025
+*v1.1*
+1. Added 162 characters.
+2. Added Ideographic Description Characters (IDC) support.
+3. Added full diacritic support.
+4. Changed tails of some characters.
+
+### 27.07.2025
+*v1*
+1. Uploaded the font.
